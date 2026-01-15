@@ -1,0 +1,1 @@
+import{_ as r}from"./ColumInfoForm.vue_vue_type_script_setup_true_lang-BjeQKeAm.js";import"./index-DmQdxAiK.js";import"./form-designer-DHHJWkD5.js";import"./form-create-_84fGzaM.js";import"./dict.type-uCG97J4P.js";export{r as default};
