@@ -1,0 +1,1 @@
+import{p as s,c as t}from"./index-B2urM1q-.js";import{l as a,E as e}from"./form-create-_84fGzaM.js";const r=t(a({name:"DocAlert",__name:"index",props:{title:s.string,url:s.string},setup:o=>(p,i)=>e("",!0)}),[["__scopeId","data-v-a375e52b"]]);export{r as _};

@@ -1,1 +1,0 @@
-import{_ as t}from"./ProductDetailsInfo.vue_vue_type_script_setup_true_lang-tcoDX96c.js";import"./ContentWrap.vue_vue_type_script_setup_true_lang-OPDE9cVe.js";import"./index-DmQdxAiK.js";import"./form-designer-DHHJWkD5.js";import"./form-create-_84fGzaM.js";import"./DictTag.vue_vue_type_script_lang-DiMRMEpR.js";export{t as default};

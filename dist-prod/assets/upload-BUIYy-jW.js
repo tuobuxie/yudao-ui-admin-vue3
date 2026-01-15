@@ -1,1 +1,0 @@
-import{aU as t}from"./index-DmQdxAiK.js";import{u as o,U as r}from"./useUpload-CW5EVrRd.js";const e={Authorization:"Bearer "+t()},i="http://47.105.43.107:48080/admin-api/mp/material/upload-permanent",m=a=>o(r.Image,2)(a),s=a=>o(r.Voice,2)(a),p=a=>o(r.Video,10)(a);export{e as H,i as U,s as a,m as b,p as c};
