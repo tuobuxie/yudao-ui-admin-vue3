@@ -1,0 +1,1 @@
+import{_ as r}from"./ProductBrowsingHistory.vue_vue_type_script_setup_true_lang-DKvSsTBa.js";import"./index-D_TWD7wt.js";import"./form-designer-DHHJWkD5.js";import"./form-create-_84fGzaM.js";import"./ProductItem-Btp2kROv.js";export{r as default};
