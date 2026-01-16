@@ -1,0 +1,1 @@
+import{j as t,T as s}from"./consts-CvaDWb4S.js";const e=(a,r)=>r?"\u5176\u5B83\u60C5\u51B5":"\u6761\u4EF6"+(a+1),c=(a,r)=>r?"\u5176\u5B83\u60C5\u51B5":"\u5305\u5BB9\u6761\u4EF6"+(a+1),l=a=>a==="M"?s.MINUTE:a==="H"?s.HOUR:a==="D"?s.DAY:s.HOUR,H=a=>{let r="";return t.forEach(o=>{o.value!==a||(r=o.label)}),r};export{e as a,c as b,l as c,H as g};
