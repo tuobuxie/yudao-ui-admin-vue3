@@ -81,14 +81,6 @@ ssh $SERVER_USER@$SERVER_IP "bash -s" <<DEPLOY_SCRIPT
     fi
     echo "✅ 依赖安装成功"
 
-    # 2.4 构建项目
-    echo "\n2.4 构建项目..."
-    pnpm build:prod
-    if [ \$? -ne 0 ]; then
-        echo "❌ 错误：项目构建失败"
-        exit 1
-    fi
-    echo "✅ 项目构建成功"
 
     # 2.5 检查PM2环境
     echo "\n2.5 检查PM2环境..."
