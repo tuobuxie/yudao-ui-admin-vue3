@@ -1,0 +1,1 @@
+import{_ as o}from"./SpuAndSkuList.vue_vue_type_script_setup_true_lang-D06QUGwQ.js";import"./index-DzK2S43K.js";import"./form-designer-DHHJWkD5.js";import"./form-create-_84fGzaM.js";import"./SkuList.vue_vue_type_style_index_0_lang-B2zKTQz1.js";export{o as default};

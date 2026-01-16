@@ -1,0 +1,1 @@
+import{_ as r}from"./DeliveryForm.vue_vue_type_script_setup_true_lang-Bw8UDPX8.js";import"./index-DzK2S43K.js";import"./form-designer-DHHJWkD5.js";import"./form-create-_84fGzaM.js";import"./index-CD8Uo_8G.js";import"./constants-C3gLHYOK.js";import"./formRules-CLH8W1j7.js";export{r as default};

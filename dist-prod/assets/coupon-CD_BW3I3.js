@@ -1,1 +1,0 @@
-import{X as a}from"./index-B2urM1q-.js";const s=async o=>a.delete({url:`/promotion/coupon/delete?id=${o}`}),n=async o=>a.get({url:"/promotion/coupon/page",params:o}),p=async o=>a.post({url:"/promotion/coupon/send",data:o});export{s as d,n as g,p as s};

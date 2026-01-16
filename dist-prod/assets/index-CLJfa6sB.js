@@ -1,1 +1,0 @@
-import"./index-B2urM1q-.js";import{al as e}from"./form-designer-DHHJWkD5.js";import{l as s,A as t,q as o}from"./form-create-_84fGzaM.js";const a=s({name:"UserOrder",__name:"index",props:{property:{}},setup:p=>(m,n)=>{const r=e;return o(),t(r,{src:"https://shopro.sheepjs.com/admin/static/images/shop/decorate/orderCardStyle.png"})}});export{a as default};

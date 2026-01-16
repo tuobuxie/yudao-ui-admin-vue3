@@ -63,6 +63,7 @@ export default ({command, mode}: ConfigEnv): UserConfig => {
             ]
         },
         build: {
+            
             minify: 'terser',
             outDir: env.VITE_OUT_DIR || 'dist',
             sourcemap: env.VITE_SOURCEMAP === 'true' ? 'inline' : false,
